@@ -1,0 +1,17 @@
+device:
+  1:
+    Base SW Release: 0.0.0
+    Contact: RR00526306
+    Created: null
+    Date of Upgrade: DD-MM-YY
+    Hardware/Platform: Lorem
+    IP: 172.18.0.46
+    OS: REDHAT Linux-7
+    PASSWORD: Techm@123
+    PORT: 22
+    Patch Release: 1.0
+    Status: UP
+    USERNAME: admin
+    name: MME1
+    type: MME
+    vendor: ABC
